@@ -28,14 +28,18 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSTest@2
+- task: DotNetCoreCLI@2
   inputs:
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    command: 'pack'
+    packagesToPack: '**/*.csproj'
+    versioningScheme: 'byPrereleaseNumber'
+    majorVersion: '1'
+    minorVersion: '0'
+    patchVersion: '0'
 
-- task: NuGetCommand@2
+- task: DotNetCoreCLI@2
   inputs:
     command: 'push'
-    packagesToPush: '$(Build.ArtifactStagingDirectory)/**/*.nupkg;!$(Build.ArtifactStagingDirectory)/**/*.WebApp.zip'
+    packagesToPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
     nuGetFeedType: 'internal'
-    publishVstsFeed: 'e0e4475f-cdec-4d4b-979e-f9de4691ed67/9752ad21-03b6-4b46-b5b7-b4f932ffbfb2'
+    publishVstsFeed: '96dbbc9e-53ee-4ed6-8955-febd937d8df2/138d0524-ac40-4b62-b081-a858c22ec1a9'
