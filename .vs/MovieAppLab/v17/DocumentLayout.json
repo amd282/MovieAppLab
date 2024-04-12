@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|c:\\users\\amd28\\documents\\github\\movieapplab\\movieapplab\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|solutionrelative:movieapplab\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "MovieAppLab\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "MovieAppLab\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:37:28.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
