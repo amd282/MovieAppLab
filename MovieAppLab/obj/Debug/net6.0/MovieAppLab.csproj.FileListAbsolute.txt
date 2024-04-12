@@ -28,3 +28,4 @@ C:\Users\amd28\Documents\GitHub\MovieAppLab\MovieAppLab\obj\Debug\net6.0\refint\
 C:\Users\amd28\Documents\GitHub\MovieAppLab\MovieAppLab\obj\Debug\net6.0\MovieAppLab.pdb
 C:\Users\amd28\Documents\GitHub\MovieAppLab\MovieAppLab\obj\Debug\net6.0\MovieAppLab.genruntimeconfig.cache
 C:\Users\amd28\Documents\GitHub\MovieAppLab\MovieAppLab\obj\Debug\net6.0\ref\MovieAppLab.dll
+C:\Users\amd28\Documents\GitHub\MovieAppLab\MovieAppLab\obj\Debug\net6.0\MovieAppLab.sourcelink.json
