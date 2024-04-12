@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|c:\\users\\amd28\\documents\\github\\movieapplab\\movieapplab\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|solutionrelative:movieapplab\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|c:\\users\\amd28\\documents\\github\\movieapplab\\movieapplab\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|solutionrelative:movieapplab\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|c:\\users\\amd28\\documents\\github\\movieapplab\\movieapplab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|solutionrelative:movieapplab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|c:\\users\\amd28\\documents\\github\\movieapplab\\movieapplab\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A820FAD0-393F-4D49-91B0-CB4C3950C83A}|MovieAppLab\\MovieAppLab.csproj|solutionrelative:movieapplab\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "MovieAppLab\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "MovieAppLab\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T16:51:12.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieAppLab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieAppLab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T16:46:52.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieAppLab\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MovieAppLab\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T16:46:36.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "MovieAppLab\\Controllers\\HelloWorldController.cs",
               "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\MovieAppLab\\MovieAppLab\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "MovieAppLab\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T16:37:28.83Z",
               "EditorCaption": ""
