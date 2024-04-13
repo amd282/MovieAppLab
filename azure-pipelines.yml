@@ -49,7 +49,8 @@ steps:
     nuGetFeedType: 'internal'
     publishVstsFeed: 'e0e4475f-cdec-4d4b-979e-f9de4691ed67/9752ad21-03b6-4b46-b5b7-b4f932ffbfb2'
 
-- task: DotNetCoreCLI@2
+- task: PublishBuildArtifacts@1
   inputs:
-    command: 'publish'
-    publishWebProjects: true
+    pathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    artifactName: 'drop'
+    publishLocation: 'Container'
